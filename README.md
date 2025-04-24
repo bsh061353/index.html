@@ -1,1 +1,9 @@
-# index.html
+<html>
+  <head>
+    <title>방석현의 웹페이지</title>
+  </head>
+<body>
+  <h1>IT 기사 모음</h1>
+  <a href="https://zdnet.co.kr/view/?no=20250319131712" target="_blank">첫번째 IT 기사</a>
+ </body>
+</html>
