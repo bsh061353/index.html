@@ -42,6 +42,10 @@
   <h1>IT 기사 모음</h1>
   <a href="https://www.choicenews.co.kr/news/articleView.html?idxno=147112">아홉번째 IT 기사</a>
 
+<body>
+  <h1>IT 기사 모음</h1>
+  <a href="https://zdnet.co.kr/view/?no=20250526085609">열번째 IT 기사</a>
+
 
 
 
