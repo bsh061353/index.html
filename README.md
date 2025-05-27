@@ -7,6 +7,11 @@
   <a href="https://zdnet.co.kr/view/?no=20250319131712" target="_blank">첫번째 IT 기사</a>
  </body>
 </html>
+<body>
+  <h1>IT 기사 모음</h1>
+  <a href="https://www.fnnews.com/news/202503162304266879" target="_blank">두번째 IT 기사</a>
+ </body>
+</html>
 
 
 
