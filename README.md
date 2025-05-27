@@ -17,6 +17,19 @@
 <body>
   <h1>IT 기사 모음</h1>
   <a href="https://www.insight.co.kr/news/498245" target="_blank">네번째 IT 기사</a>
+  <body>
+  <h1>IT 기사 모음</h1>
+  <a href="https://www.sciencetimes.co.kr/nscvrg/view/menu/249?searchCategory=221&nscvrgSn=260153
+">다섯번째 IT 기사</a>
+<body>
+  <h1>IT 기사 모음</h1>
+  <a href=" https://www.hankyung.com/article/202504280994i
+">여섯번째 IT 기사</a>
+<body>
+  <h1>IT 기사 모음</h1>
+  <a href="https://www.e-focus.co.kr/news/articleView.html?idxno=3000141
+">일곱번째 IT 기사</a>
+
 
 
 
