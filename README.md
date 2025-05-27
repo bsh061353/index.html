@@ -9,9 +9,15 @@
 </html>
 <body>
   <h1>IT 기사 모음</h1>
-  <a href="https://www.fnnews.com/news/202503162304266879" target="_blank">두번째 IT 기사</a>
- </body>
-</html>
+  <a href="https://news.mt.co.kr/mtview.php?no=2025032514280248794&VN" target="_blank">두번째 IT 기사</a>
+<body>
+  <h1>IT 기사 모음</h1>
+  <a href="https://www.hani.co.kr/arti/economy/consumer/1189856.html
+" target="_blank">세번째 IT 기사</a>
+<body>
+  <h1>IT 기사 모음</h1>
+  <a href="https://www.insight.co.kr/news/498245" target="_blank">네번째 IT 기사</a>
+
 
 
 
